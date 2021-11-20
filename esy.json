@@ -1,0 +1,14 @@
+{
+  "name": "melange-reason-react-template",
+  "dependencies": {
+    "@opam/ocaml-lsp-server": "1.8.3",
+    "@opam/ocamlfind-secondary": "1.9.1",
+    "melange": "melange-re/melange",
+    "ocaml": "4.12.x"
+  },
+  "esy": {
+    "buildsInSource": true,
+    "build": ["ln -sfn #{melange.install} node_modules/bs-platform"]
+  },
+  "installConfig": { "pnp": false }
+}

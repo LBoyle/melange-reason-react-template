@@ -1,0 +1,24 @@
+{
+  "name": "melange-reason-react-template",
+  "version": "1.0.0",
+  "description": "Example project using melange.re with reason-react",
+  "author": "louis_boyle@hotmail.com",
+  "license": "MIT",
+  "scripts": {
+    "re:build": "esy x bsb -make-world",
+    "re:clean": "esy x bsb -clean-world",
+    "re:watch": "chokidar \"src/**/*.re\" -c \"esy x bsb -make-world\"",
+    "parcel": "./node_modules/parcel-bundler/bin/cli.js index.html"
+  },
+  "dependencies": {
+    "node-sass": "^4.14.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "reason-react": "^0.9.1"
+  },
+  "devDependencies": {
+    "chokidar-cli": "^3.0.0",
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.43.4"
+  }
+}
