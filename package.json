@@ -8,7 +8,8 @@
     "re:build": "esy x bsb -make-world",
     "re:clean": "esy x bsb -clean-world",
     "re:watch": "chokidar \"src/**/*.re\" -c \"esy x bsb -make-world\"",
-    "parcel": "./node_modules/parcel-bundler/bin/cli.js index.html"
+    "parcel": "./node_modules/parcel-bundler/bin/cli.js index.html",
+    "parcel-build": "./node_modules/parcel-bundler/bin/cli.js build index.html"
   },
   "dependencies": {
     "node-sass": "^4.14.1",
