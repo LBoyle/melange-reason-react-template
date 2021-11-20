@@ -10,8 +10,6 @@ dune.bsb
 .melange.eobjs
 .cache 
 dist
-ntvs_analysis.dat
-.vs
 bin
 obj
 *.bs.js 
