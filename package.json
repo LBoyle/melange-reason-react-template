@@ -5,9 +5,9 @@
   "author": "l.boyle@nittygritty.net",
   "license": "MIT",
   "scripts": {
-    "re:build": "esy x bsb -make-world",
+    "re:build": "esy dune build",
     "re:clean": "esy x bsb -clean-world",
-    "re:watch": "chokidar \"src/**/*.re\" -c \"esy x bsb -make-world\"",
+    "re:watch": "chokidar \"src/**/*.re\" -c \"esy dune build\"",
     "parcel": "parcel index.html",
     "parcel-build": "rm -rf dist && parcel build index.html"
   },
