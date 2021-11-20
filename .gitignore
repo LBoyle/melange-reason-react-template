@@ -15,6 +15,3 @@ ntvs_analysis.dat
 bin
 obj
 *.bs.js 
-
-esy.lock
-package-lock.json
