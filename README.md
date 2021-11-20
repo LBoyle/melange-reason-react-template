@@ -1,6 +1,6 @@
 # melange-reason-react-template
 
-A simple project using melange.re, ReasonML with the latest React.js
+A template project using melange.re, ReasonML with the latest React.js
 
 ## Getting started
 
