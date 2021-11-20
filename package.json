@@ -13,13 +13,13 @@
   },
   "dependencies": {
     "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "reason-react": "^0.9.1"
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.0.1",
+    "reason-react": "^0.9.1",
     "bs-platform": "^9.0.2",
     "chokidar-cli": "^3.0.0",
+    "@parcel/transformer-sass": "^2.0.1",
     "parcel": "^2.0.1"
   }
 }
