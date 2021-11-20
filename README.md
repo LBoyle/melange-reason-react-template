@@ -1,6 +1,6 @@
 # melange-reason-react-template
 
-A template project using melange.re, ReasonML with the latest React.js
+A template project using melange and ReasonML with the latest React.js
 
 The ReasonReact docs [here](https://reasonml.github.io/reason-react/docs/en/intro-example) will probably be the most useful, this is not a ReScript project
 
