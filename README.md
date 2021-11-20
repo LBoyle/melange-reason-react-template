@@ -2,6 +2,8 @@
 
 A template project using melange.re, ReasonML with the latest React.js
 
+The ReasonReact docs [here](https://reasonml.github.io/reason-react/docs/en/intro-example) will probably be the most useful, this is not a ReScript project
+
 ## Getting started
 
 ### npm
@@ -10,7 +12,7 @@ You may use npm or yarn as normal
 
 ### esy
 
-You will need [esy](https://esy.sh) package manager to obtain OCaml and Melange sources. See `esy` installation instructions [here](https://esy.sh/docs/en/getting-started.html#install-esy).
+You will need [esy](https://esy.sh) package manager to obtain OCaml and Melange sources. See `esy` installation instructions [here](https://esy.sh/docs/en/getting-started.html#install-esy)
 
 Install dependancies
 
