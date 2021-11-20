@@ -36,6 +36,8 @@ Output is in `dist/`
 npm run parcel-build
 ```
 
-## Complications
+## Notes
 
 I have not used the watchers built into dune, instead I use chokidar-cli to watch .re files and trigger the recompile
+
+I have included the `@opam/ocaml-lsp-server` for editor support, I use [OCaml Platform](https://marketplace.visualstudio.com/items?itemName=ocamllabs.ocaml-platform)
