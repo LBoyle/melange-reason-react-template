@@ -40,11 +40,12 @@ Navigate to `localhost:1234`
 
 ### Production
 
-Output is in `dist/`
 
 ```bash
 npm run parcel-build
 ```
+
+Output is in `dist/`
 
 ## Notes
 
