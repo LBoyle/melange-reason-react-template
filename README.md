@@ -16,6 +16,9 @@ Install dependancies
 
 ```bash
 npm i
+```
+
+```bash
 esy
 ```
 
@@ -23,6 +26,9 @@ You will need two terminals
 
 ```bash
 npm run re:watch
+```
+
+```bash
 npm run parcel
 ```
 
