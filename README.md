@@ -52,4 +52,4 @@ I have not used the watchers built into dune, instead I use chokidar-cli to watc
 
 I have included `@opam/ocaml-lsp-server` for editor support, I use [OCaml Platform](https://marketplace.visualstudio.com/items?itemName=ocamllabs.ocaml-platform) for VSCode
 
-I have included bs-platform because it's required for some parts of reason-react, though it isn't used for compilation
+I have included bs-platform because it's required for some parts of reason-react, though it isn't used for compilation, not really what I want
