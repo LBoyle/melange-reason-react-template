@@ -9,12 +9,9 @@ dune
 dune.bsb
 .melange.eobjs
 .cache 
-esy.lock 
 dist
-
-*.bs.js 
-
 ntvs_analysis.dat
 .vs
 bin
 obj
+*.bs.js 
