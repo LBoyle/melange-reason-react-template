@@ -2,7 +2,7 @@
   "name": "melange-reason-react-template",
   "version": "1.0.0",
   "description": "Example project using melange.re with reason-react",
-  "author": "louis_boyle@hotmail.com",
+  "author": "l.boyle@nittygritty.net",
   "license": "MIT",
   "scripts": {
     "re:build": "esy x bsb -make-world",
