@@ -1,3 +1,10 @@
+## Not Maintained 
+
+Here's the official template project [melange-re/melange-esy-template](https://github.com/melange-re/melange-esy-template) 
+
+
+---
+
 # melange-reason-react-template
 
 A template project using melange and ReasonML with the latest React.js
